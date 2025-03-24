@@ -1,0 +1,2 @@
+Proyecto realizado en The Odin Proyect, donde aplco lo aprendido en HTML en el curso el cual he iniciaado, para poder reforzar mis conocimientos en HTML, CSS y JS.
+Pero en este momento solo sera de HTML.
